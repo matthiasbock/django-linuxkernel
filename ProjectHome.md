@@ -1,0 +1,1 @@
+Customize your Linux kernel by entering your PC's hardware
